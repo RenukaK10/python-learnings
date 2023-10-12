@@ -1,0 +1,8 @@
+print("Welcome to DANIEL Airport")
+weight = float(input("how many pounds does your suitcase weigh?"))
+if weight >50:
+    print("There is a 25$ charge for luggage and already deducted from your card")
+else:
+    print("you are fine to board")
+print("thank you and enjoy")
+
